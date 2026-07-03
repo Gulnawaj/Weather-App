@@ -20,4 +20,7 @@ A responsive Weather App built using **HTML, CSS, and JavaScript** that fetches 
 - JavaScript (ES6)
 - OpenWeatherMap API
 
+## Link
+https://weather-app-gulnawaj.netlify.app/
+
 
